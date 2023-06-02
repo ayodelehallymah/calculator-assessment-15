@@ -58,3 +58,8 @@ section{
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr;
  }
+
+ .cards{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+ }
